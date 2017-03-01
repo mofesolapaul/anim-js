@@ -1,0 +1,28 @@
+{
+  "name": "anim-js",
+  "version": "1.0.0",
+  "description": "Apply controlled animations (animate.css) to elements on page load using data attributes (not viewport-dependent)",
+  "main": "src/anim-js.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/De-paule/anim-js.git"
+  },
+  "keywords": [
+    "anim-js",
+    "animations",
+    "html",
+    "css",
+    "javascript",
+    "jquery"
+  ],
+  "author": "Banjo Mofesola Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/De-paule/anim-js/issues"
+  },
+  "homepage": "https://github.com/De-paule/anim-js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.2.0"
+  }
+}
