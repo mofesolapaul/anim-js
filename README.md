@@ -1,5 +1,7 @@
 # anim-js
-Apply controlled animations (animate.css) to elements on page load using data attributes (not viewport-dependent)
+control css animations with data-attributes (not viewport-dependent)
+
+Anim-js is a lightweight jQuery plugin for controlling AnimateCSS-based animations applied to DOM elements, on page load, using data-attributes (and it's not viewport-dependent).
 
 #### in simpler terms...
 Remember [WOW.js](https://github.com/matthieua/WOW)? Awesome stuff, I use it all the time, but there's this issue I always came across - if the page was refreshed, all animations outside the viewport (to the top, too) wait till you scroll back to them before they fire.
