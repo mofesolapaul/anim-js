@@ -28,4 +28,4 @@ In the example above, the 'football' would start bouncing 2 seconds after pagelo
 *   jQuery
 *   animate.css
 
-__ PS: _contributions are most welcome_ __
+PS: _contributions are most welcome_
